@@ -1,8 +1,8 @@
-# The Official OSX-Arc Collection
+# OSX-Arc Collection
 
 OSX-Arc theme collection is a flat theme collection based on arc with transparent elements for GTK 3, GTK 2 and Gnome-Shell which supports GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
-## OSX-Arc Collection is available in three variants 
+## 0SX-Arc Collection is available in three variants 
 
 ##### OSX-Arc-White
 
@@ -18,38 +18,8 @@ OSX-Arc theme collection is a flat theme collection based on arc with transparen
 
 ## Installation
 
-Latest stable & beta releases can be downloaded from [Here](https://github.com/LinxGem33/OSX-Arc-White/releases)
-
 ### Packages
 
-Arch Linux users can install from the [AUR package](https://aur.archlinux.org/packages/osx-arc-white/) currently maintained by @jaxmetalmax.
-
---
-
-### Supported Desktop Enviroments
-
-  * `Antergos` (Gnome)
-  * `Arch`
-  * `Budgie`
-  * `Cinnamon` (Updated version)
-  * `Elementary OS`
-  * `Fedora` (Gnome)
-  * `Manjaro`
-  * `Mate` (3.14 or later)
-  * `Unity` (7.4 or later)
-  * `Xfce`
-  
-### Supported GTK version
-  * `GTK 3.14` 
-  * `GTK 3.16`
-  * `GTK 3.18` 
-  * `GTK 3.20`
-  * `GTK 3.22`
-  
-### Supported OS version
-  * `14.04 LTS` 
-  * `16.04 LTS`
-  * `16.10`
 
 --
 
@@ -57,12 +27,15 @@ Arch Linux users can install from the [AUR package](https://aur.archlinux.org/pa
 
 How To Install:
 
-1. Download
+1. Download (https://www.gnome-look.org/p/1167049)
 
-2.  Extract to /usr/share/themes
+1a-. Extract to /usr/share/themes
 or ~/.themes (create it (in your home folder) if necessary);
 
-3. Change via distribution specific tweak tool.
+2. Alternatively click on the install button next to the theme
+(follow instructions by clicking the question mark next to the install button)
+
+3. Change via distribution specific tool.
 
 
 **Note:** If your distribution doesn't ship separate development packages you just need GTK 3 instead of the `-dev` packages.
@@ -117,11 +90,10 @@ If you get artifacts like black or invisible backgrounds under Unity, disable ov
 
 
 ## Bugs
-Bugs should be reported [here](https://github.com/LinxGem33/OSX-Arc-White/issues) on the Github issues page.
+bug page available soon.
 
 ## License
 OSX-Arc Collection is available under the terms of the GPL-3.0. See `COPYING` for details.
 
-## Apps Preview
+## Full Preview
 
-![A screenshot of the OSX-Arc-Collection Apps Veiw](https://cn.pling.com/img/5/9/0/2/287ff414e65c196dfa008ca4ffe2d76d6d35.png)
