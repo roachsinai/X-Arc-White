@@ -24,7 +24,7 @@ Latest stable & beta releases can be downloaded from [Here](https://github.com/L
 
 Arch Linux users can install from the [AUR package](https://aur.archlinux.org/packages/osx-arc-white/) currently maintained by @jaxmetalmax.
 
---
+-- 
 
 ### Supported Desktop Enviroments
 
