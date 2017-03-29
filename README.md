@@ -1,7 +1,7 @@
 # The Official OSX-Arc Collection
 
 | Official Logo  |Introduction  |
-| ------------- | ------------- |
+| ------------- | :------------- |
 | ![](https://cn.pling.com/cache/280x171/img/a/f/8/8/11ff91ed530d48d38775e90a231a9aef420d.png)| OSX-Arc theme collection is a flat theme collection based on arc with transparent elements OSX-Arc Collection is available in three variants, it also supports  GTK 3, GTK 2 and Gnome-Shell which integrates with GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.  |
 
 ##### OSX-Arc-White
@@ -27,29 +27,21 @@ Arch Linux users can install from the [AUR package](https://aur.archlinux.org/pa
 ##
 
 ### Supported Desktop Enviroments
+| Supported Desktop Enviroments  | Supported GTK version | Supported OS version  |
+| ------------- | ------------- | ------------- |
+|  * `Antergos` |* `GTK 3.14 - Support end date (2018)`|* `14.04 LTS`
+|  * `Arch`|* `GTK 3.16 - Support end date (2018)`|* `16.04 LTS`
+|  * `Budgie`|* `GTK 3.18` |* `16.10`
+|  * `Cinnamon (Updated version)`|* `GTK 3.20`|* `17.04 - In progress`
+|  * `Elementary OS`|* `GTK 3.22`
+|  * `Fedora (Gnome)` |* `GTK 3.24 - In progress`
+|  * `Gnome`|
+|  * `Manjaro`|
+|  * `Mate (3.14 or later)`|
+|  * `Unity (7.4 or later)`|
+|  * `Xfce`|                 
 
-  * `Antergos` (Gnome)
-  * `Arch`
-  * `Budgie`
-  * `Cinnamon` (Updated version)
-  * `Elementary OS`
-  * `Fedora` (Gnome)
-  * `Manjaro`
-  * `Mate` (3.14 or later)
-  * `Unity` (7.4 or later)
-  * `Xfce`
-  
-### Supported GTK version
-  * `GTK 3.14` <- Support will end after next LTS release (2018)
-  * `GTK 3.16` <- Support will end after next LTS release (2018)
-  * `GTK 3.18` 
-  * `GTK 3.20`
-  * `GTK 3.22`
-  
-### Supported OS version
-  * `14.04 LTS` 
-  * `16.04 LTS`
-  * `16.10`
+
   
 ##
 
