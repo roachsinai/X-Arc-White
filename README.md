@@ -126,6 +126,7 @@ If you get artifacts like black or invisible backgrounds under Unity, disable ov
 
 
 ## 
+
 ### Bugs
 
 Bugs should be reported [here](https://github.com/LinxGem33/OSX-Arc-White/issues) on the Github issues page.
@@ -141,4 +142,3 @@ OSX-Arc Collection is available under the terms of the GPL-3.0. See `COPYING` fo
 ### Apps Preview
 
 ![A screenshot of the OSX-Arc-Collection Apps Veiw](https://cn.pling.com/img/5/9/0/2/287ff414e65c196dfa008ca4ffe2d76d6d35.png)
-
