@@ -26,7 +26,7 @@ Arch Linux users can install from the [AUR package](https://aur.archlinux.org/pa
 
 ##
 
-### Supported Desktop Enviroments
+### Supported Enviroment Information
 | Supported Desktop Enviroments  | Supported GTK version | Supported OS version  |
 | ------------- | ------------- | ------------- |
 |  * `Antergos` |* `GTK 3.14 - Support end date (2018)`|* `14.04 LTS`
@@ -80,14 +80,13 @@ Run
 
 ## Work in progress!
 
-- [x] Add OSX-Arc-Plus beta theme
-- [x] Added GPL v3 Licences
-- [ ] Create deb & rpm packages
-- [ ] Add new theme elements to gnome-shell
-- [ ] Add support for Gnome 3.24
-- [ ] OS support for 17.04
-- [ ] Fix calander css styling
-
+| Completed Tasks  | In Progress Tasks |
+| ------------- | ------------- |
+| :white_check_mark: Add OSX-Arc-Plus beta theme | Create deb & rpm packages
+| :white_check_mark: Added GPL v3 Licences| Add new theme elements to gnome-shell
+|| Add support for Gnome 3.24
+|| OS support for 17.04
+|| Fix calander css styling
 ## Extra's
 
 ### Arc Firefox theme
