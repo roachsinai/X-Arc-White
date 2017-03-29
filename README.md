@@ -72,13 +72,17 @@ For the theme to function properly, install the following
 
 After the installation is complete you can activate the theme with `gnome-tweak-tool` or a similar program by selecting `OSX-Arc-White`, `OSX-Arc-Darker` or `OSX-Arc-Shadow` as Window/GTK+ theme and `OSX-Arc-White`, `OSX-Arc-Darker` or `OSX-Arc-Shadow` as Gnome Shell/Cinnamon theme.
 
-## Uninstall
+## 
+
+### Uninstall
 
 Run
 
     sudo rm -rf /usr/share/themes/{OSX-Arc-White,OSX-Arc-Darker,OSX-Arc-Shadow}
 
-## Work in progress!
+## 
+
+### Work in progress!
 
 | Completed Tasks  | In Progress Tasks |
 | ------------- | ------------- |
@@ -87,7 +91,10 @@ Run
 || Add support for Gnome 3.24
 || OS support for 17.04
 || Fix calander css styling
-## Extra's
+
+## 
+
+### Extra's
 
 ### Arc Firefox theme
 A theme for Firefox is available at https://github.com/horst3180/arc-firefox-theme
@@ -105,25 +112,33 @@ Now open the Plank preferences window by executing `plank --preferences` from a 
 ### Arc-Dark for Ubuntu Software Center
 The Arc Dark theme for the Ubuntu Software Center by [mervick](https://github.com/mervick) can be installed from [here](https://github.com/mervick/arc-dark-software-center). It solves readability issues with Arc Dark and the Ubuntu Software Center.
 
-## Troubleshooting
+## 
+
+### Troubleshooting
 
 If you have Ubuntu with a newer GTK/Gnome version than the one included by default (i.e Ubuntu 14.04 with GTK 3.14 or Ubuntu 15.04 with GTK 3.16, etc.) you have to install the theme manually as described above.
 This is also true for other distros with a different GTK/Gnome version than the one included by default
 
---
 
 If you get artifacts like black or invisible backgrounds under Unity, disable overlay scrollbars with
 
     gsettings set com.canonical.desktop.interface scrollbar-mode normal
 
 
-## Bugs
+## 
+### Bugs
+
 Bugs should be reported [here](https://github.com/LinxGem33/OSX-Arc-White/issues) on the Github issues page.
 
-## License
+## 
+
+### License
+
 OSX-Arc Collection is available under the terms of the GPL-3.0. See `COPYING` for details.
 
-## Apps Preview
+## 
+
+### Apps Preview
 
 ![A screenshot of the OSX-Arc-Collection Apps Veiw](https://cn.pling.com/img/5/9/0/2/287ff414e65c196dfa008ca4ffe2d76d6d35.png)
 
