@@ -26,7 +26,7 @@ Arch Linux users can install from the [AUR package](https://aur.archlinux.org/pa
 
 ##
 
-### Supported Enviroment Information
+
 | Supported Desktop Enviroments  | Supported GTK version | Supported OS version  |
 | ------------- | ------------- | ------------- |
 |  * `Antergos` |* `GTK 3.14 - Support end date (2018)`|* `14.04 LTS`
