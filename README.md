@@ -86,8 +86,8 @@ Run
 
 | Completed Tasks  | In Progress Tasks |
 | ------------- | ------------- |
-| :white_check_mark: Add OSX-Arc-Plus beta theme | Create deb & rpm packages
-| :white_check_mark: Added GPL v3 Licences| Add new theme elements to gnome-shell
+| Add OSX-Arc-Plus beta theme ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) | Create deb & rpm packages
+| Added GPL v3 Licences ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true)| Add new theme elements to gnome-shell
 || Add support for Gnome 3.24
 || OS support for 17.04
 || Fix calander css styling
