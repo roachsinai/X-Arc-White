@@ -36,6 +36,21 @@ Ubuntu & Debian based distributions can now install the newly created Debian pac
 
 Arch Linux users can install from the [AUR package](https://aur.archlinux.org/packages/osx-arc-white/) currently maintained by @jaxmetalmax.
 
+Arch Linux users can install from AUR repository by using yaourt or packer commands are below.
+
+**Using yaourt commands:**
+```
+$ yaourt -S osx-arc-white
+$ yaourt -S osx-arc-darker
+$ yaourt -S osx-arc-shadow
+```
+**Using packer commands:**
+```
+$ packer -S osx-arc-white
+$ packer -S osx-arc-darker
+$ packer -S osx-arc-shadow
+```
+
 **AUR Note**: If you're having trouble with the AUR packages please submit a theme request to the current package maintainer which is currently maintained by jaxmetalmax before creating an issue.
 
 ##
