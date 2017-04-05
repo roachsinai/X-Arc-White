@@ -22,9 +22,17 @@
 
 Latest stable & beta releases can be downloaded from [Here](https://github.com/LinxGem33/OSX-Arc-White/releases)
 
+##
+
 ### Packages
 
-Ubuntu & Debian based distributions can now install the [Debian package](https://github.com/LinxGem33/OSX-Arc-White/releases) for easier installation of the theme all deb files have checksums for file integrity.
+Ubuntu & Debian based distributions can now install the newly created Debian package  for easy installation of the theme collection, also all deb files have checksums MD5,SHA1 and SHA256 for file integrity links are below.
+
+> [osx-arc-collection_1.3.9_amd64.deb](https://github.com/LinxGem33/OSX-Arc-White/releases)
+
+> [osx-arc-collection_1.3.9_i386.deb](https://github.com/LinxGem33/OSX-Arc-White/releases)
+
+##
 
 Arch Linux users can install from the [AUR package](https://aur.archlinux.org/packages/osx-arc-white/) currently maintained by @jaxmetalmax.
 
