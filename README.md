@@ -40,13 +40,13 @@ Arch Linux users can install from the [AUR package](https://aur.archlinux.org/pa
 
 Arch Linux users can install the theme collection from the AUR repository by using yaourt or packer commands below.
 
-**Using yaourt commands:**
+**Yaourt commands:**
 ```
 $ yaourt -S osx-arc-white
 $ yaourt -S osx-arc-darker
 $ yaourt -S osx-arc-shadow
 ```
-**Using packer commands:**
+**Packer commands:**
 ```
 $ packer -S osx-arc-white
 $ packer -S osx-arc-darker
