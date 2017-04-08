@@ -1,4 +1,4 @@
-## important announcement! (not releated to the theme)
+## Important Announcement! (not releated to the theme)
 
 #### SSL/TLS Setup Security New Gnome extension (Help wanted)
 
