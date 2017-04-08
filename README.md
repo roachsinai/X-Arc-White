@@ -1,5 +1,3 @@
-# The Official OSX-Arc Collection
-
 ## important announcement! (not releated to the theme)
 
 #### SSL/TLS Setup Security Gnome extension (Help wanted)
@@ -24,6 +22,8 @@ and also Given Cipher Suites.
 I want to integrate this into my current ip finder extension but if not then i can make new extension the reason i want help with this project is that my knowledge of JavaScript is improving alot but i only started learning 3 months ago, this extension will rely on a API call for the information using a simple HTTP JSON API for developers, if you have knowledge of how to help with this please get in touch ![Here](https://github.com/LinxGem33/OSX-Arc-White/issues/15).
 
 kind regards
+
+# The Official OSX-Arc Collection
 
 | Official Logo  |Introduction  |
 | ------------- | :------------- |
