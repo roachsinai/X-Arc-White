@@ -1,6 +1,6 @@
 ## important announcement! (not releated to the theme)
 
-#### SSL/TLS Setup Security Gnome extension (Help wanted)
+#### SSL/TLS Setup Security New Gnome extension (Help wanted)
 
 **Purpose of this extension!**
 
