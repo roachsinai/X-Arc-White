@@ -40,7 +40,7 @@ Ubuntu & Debian based distributions can now install the newly created Debian pac
 
 ##
 
-Arch Linux users can install from the [AUR](https://aur.archlinux.org/packages/osx-arc-plus/) currently maintained by @jaxmetalmax.
+Arch Linux users can install from the [AUR](https://aur.archlinux.org/packages/osx-arc-white/) currently maintained by @jaxmetalmax.
 
 **AUR Note**: If you're having trouble with the AUR packages please submit a request to the current package maintainer which is currently maintained by jaxmetalmax before creating an issue.
 
