@@ -124,13 +124,7 @@ Run (As Local User)
 
 ### Work in progress!
 
-| Completed Tasks | ![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true)| In Progress Tasks |![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-off.png?raw=true)|
-| :------------- |--- |:------------- |---|
-| Add OSX-Arc-Plus beta theme |![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) | Correct css colour |9%
-| Added GPL v3 Licences |![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true)  |Add new theme elements to gnome-shell |55%
-|Create deb packages|![](https://github.com/adapta-project/adapta-github-resources/blob/master/images/check-on.png?raw=true) |Add support for Gnome 3.24|93%
-|| |OS support for 17.04|73%
-|| |Fix calander css styling|5%
+
 
 ## 
 
