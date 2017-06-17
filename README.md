@@ -1,6 +1,6 @@
 <img src="https://github.com/LinxGem33/Neon/blob/master/artwork/ark-svg.png?raw=true" alt="Logo" align="left" /> OSX-Arc Collection
 ===== 
-OSX-Arc theme collection is a flat theme collection based on arc. 
+A flat theme collection based on arc. 
 
 Introduction
 -------------------
