@@ -1,8 +1,7 @@
-# The Official OSX-Arc Collection
-
-| Official Logo  |Introduction  |
-| ------------- | :------------- |
-| ![](https://github.com/LinxGem33/Neon/blob/master/artwork/ark-svg.png?raw=true)| OSX-Arc theme collection is a flat theme collection based on arc with transparent elements OSX-Arc Collection is available in three variants, it also supports  GTK 3, GTK 2 and Gnome-Shell which integrates with GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.  |
+<img src="https://github.com/LinxGem33/Neon/blob/master/artwork/ark-svg.png?raw=true" alt="Logo" align="left" /> OSX-Arc 
+======
+##
+OSX-Arc theme collection is a flat theme collection based on arc with transparent elements OSX-Arc Collection is available in three variants, it also supports  GTK 3, GTK 2 and Gnome-Shell which integrates with GTK 3 and GTK 2 based desktop environments like Gnome, Unity, Budgie, Pantheon, XFCE, Mate, etc.
 
 ##
 
