@@ -272,7 +272,7 @@ GtkSearchEntry.entry {
   .button:hover {
     color: #5c616c;
     outline-color: rgba(92, 97, 108, 0.3);
-    border-color: #5294e2;
+    border-color: #cfd6e6;
     background-color: white;
     -gtk-image-effect: highlight; }
   .button:active, .button:checked {
