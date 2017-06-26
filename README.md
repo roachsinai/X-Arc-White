@@ -10,7 +10,7 @@ OSX-Arc theme collection is a flat theme collection based on arc with transparen
 
 ### Announcements
 
-*Budgie support has now been dropped due to the founder and lead developer kindly pointing out that the theme doesn’t support the budgie desktop sorry for any inconvenience to any users, you can see the full issue [here](https://github.com/LinxGem33/OSX-Arc-White/issues/28)
+*Budgie support has now been dropped due to the founder and lead developer kindly pointing out that the theme didn’t support the budgie desktop in the first place sorry for any inconvenience to any users, you can see the full issue [here](https://github.com/LinxGem33/OSX-Arc-White/issues/28)
 ##
 
 |OSX Arc White|OSX Arc Plus|OSX Arc Darker|OSX Arc Shadow|
