@@ -10,9 +10,9 @@ OSX-Arc theme collection is a flat theme collection based on arc with transparen
 
 ### Announcements
 
-Just a quick update I’m currently going to end development of OSX Arc collection but the code is still available for further development I have time constraints which makes it hard for me to continue to offer full support to the project and thank you to everyone one offered there support.
+Just a quick update I’m currently going to end development of OSX Arc collection but the code is still available for further development I have time constraints which makes it hard for me to continue to offer full support to the project and thank you to everyone one who offered their support.
 
-kind regards - LinxGem33
+kind regards - **LinxGem33**
 
 ##
 
