@@ -1,6 +1,6 @@
-<img src="https://github.com/LinxGem33/Neon/blob/master/artwork/ark-svg.png?raw=true" alt="Logo" align="left" /> 
+![](https://github.com/LinxGem33/Neon/blob/master/artwork/osx-arc-wide-banner.png?raw=true)
 
-# OSX-Arc Collection
+##
 
 ### Introduction
 
