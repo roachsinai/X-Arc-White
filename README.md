@@ -1,3 +1,11 @@
+### Please Note: This project has been discontinued as of 09/04/2018.
+
+I apologise to anyone who feels disappointed about this decision, it was one that took a lot to think about and i thank everyone for their support. i may publish a brand new theme in the summer that ive been working on, however i will leave all source code on GitHub.
+
+If you'd like to continue this project, please either add a pull request or Fork it.
+
+kind regards
+##
 ![](https://github.com/LinxGem33/Neon/blob/master/artwork/osx-arc-wide-banner1.png?raw=true)
 
 ##
