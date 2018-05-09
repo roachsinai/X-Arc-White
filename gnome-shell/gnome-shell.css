@@ -2133,22 +2133,20 @@ border: 1px solid #dcdfe3; }
  ************************/
 .candidate-popup-content {
   padding: 0.5em;
-  spacing: 0.3em; }
+  spacing: 0.3em;
+  font-size: 12pt; }
 
 .candidate-index {
   padding: 0 0.5em 0 0;
-  color: rgba(236, 239, 241, 0.5); }
+  color: #FFFFFF; }
 
 .candidate-box {
-  transition-duration: 0s;
   padding: 0.3em 0.5em 0.3em 0.5em;
-  border-radius: 2px; }
-  .candidate-box:hover {
-    background-color: rgba(236, 239, 241, 0.2);
-    color: #ECEFF1; }
+  border-radius: 2px;
+  background-color: #00AC83;
+  color: #FFFFFF; }
   .candidate-box:active, .candidate-box:selected {
-    background-color: rgba(236, 239, 241, 0.4);
-    color: #FFFFFF; }
+    background-color: rgba(0, 0, 255, 0.7); }
 
 .candidate-page-button-box {
   height: 2em; }
